@@ -5,7 +5,7 @@ body{
     font-weight: bolder;
     font-style:bold;
     text-align: center;
-    background-image: url("bg.jpg") no-repeat center center fixed;
+    background : url("bg.jpg") no-repeat center center fixed;
     background-size: cover;
     color: rgb(10, 57, 228);
     text-shadow: 0px 0px 2px black;
@@ -91,3 +91,4 @@ h3{
     margin-right: auto;
     background-image : url("mrog.jpg");
 }
+
