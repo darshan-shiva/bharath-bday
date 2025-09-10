@@ -68,9 +68,23 @@ h3{
     height : 600px;
     margin-left: auto;
     margin-right: auto;
-    background-image :url("gang.jpg");
+    background-image :url("thooriga.png");
 }
 #Fourth.gift-img:hover{
+    width :600px;
+    height : 500px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image : url("francisgay.jpg");
+}
+#Fifth.gift-img:hover{
+    width :600px;
+    height : 500px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image : url("gang.jpg");
+}
+#Sixth.gift-img:hover{
     width :600px;
     height : 500px;
     margin-left: auto;
