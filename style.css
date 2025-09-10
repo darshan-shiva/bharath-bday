@@ -1,0 +1,79 @@
+
+
+body{
+    font-family: "Michroma", cursive;
+    font-weight: bolder;
+    font-style:bold;
+    text-align: center;
+    background-image: url("bg.jpg") no-repeat center center fixed;
+    background-size: cover;
+    color: rgb(10, 57, 228);
+    text-shadow: 0px 0px 2px black;
+    display : flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#header{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#image{
+    width:400px;
+    height:400 px;
+    margin:15px;
+    border-radius: 50%;
+    border:7px solid #75bbcd;
+}
+#age{
+    
+    padding : 5px 10px;
+    border-radius: 5px;
+    margin:5px 0 10px 0;
+}
+#date{
+    margin-bottom :330px;
+    padding : 5px 10px;
+    border-radius: 5px;
+}
+
+.gift-img{
+    width:1000px;
+    height:650px;
+    background-size: cover;
+    background-image: url("giftcard.jpg");
+}
+h3{
+    margin-top : 10px;
+    margin-bottom: 10px;
+}
+.gift-img:hover{
+    width :600px;
+    height : 600px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image :url("BACKGROUNDIMG.jpg");
+}
+#second.gift-img:hover{
+    width :700px;
+    height : 600px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image :url("siripu.jpg");
+}
+#third.gift-img:hover{
+    width :700px;
+    height : 600px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image :url("gang.jpg");
+}
+#Fourth.gift-img:hover{
+    width :600px;
+    height : 500px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image : url("mrog.jpg");
+}
