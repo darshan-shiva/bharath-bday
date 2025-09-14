@@ -5,9 +5,9 @@ body{
     font-weight: bolder;
     font-style:bold;
     text-align: center;
-    background : url("bg.jpg") no-repeat center center fixed;
-    background-size: center;
-    color: white;;
+    background: url("bg.jpg") no-repeat center center fixed;
+    background-size: cover;
+    color: white;
     text-shadow: 0px 0px 2px black;
     display : flex;
     flex-direction: column;
@@ -54,6 +54,7 @@ h3{
     height : 600px;
     margin-left: auto;
     margin-right: auto;
+    border-radius: 20px;
     background-image :url("BACKGROUNDIMG.jpg");
 }
 #second.gift-img:hover{
@@ -68,29 +69,37 @@ h3{
     height : 600px;
     margin-left: auto;
     margin-right: auto;
+    border-radius: 20px;
     background-image :url("thooriga.png");
 }
-#Fourth.gift-img:hover{
+#fourth.gift-img:hover{
     width :600px;
     height : 500px;
     margin-left: auto;
     margin-right: auto;
+    border-radius: 20px;
+    background-image : url("bharathdoli.jpg");}
+#fifth.gift-img:hover{
+    width :600px;
+    height : 500px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
     background-image : url("francisgay.jpg");
 }
-#Fifth.gift-img:hover{
+#sixth.gift-img:hover{
     width :600px;
     height : 500px;
     margin-left: auto;
     margin-right: auto;
+    border-radius: 20px;
     background-image : url("gang.jpg");
 }
-#Sixth.gift-img:hover{
+#seventh.gift-img:hover{
     width :600px;
     height : 500px;
     margin-left: auto;
     margin-right: auto;
+    border-radius: 20px;
     background-image : url("mrog.jpg");
 }
-
-
-
